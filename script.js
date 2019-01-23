@@ -1,1 +1,2 @@
-alert("Bienvenue sur mon Activité")
+var Welcome = "Bienvenue sur mon Activité"
+alert(Welcome)
